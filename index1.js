@@ -5,6 +5,13 @@ const index1 = () => {
     return (
         <View>
             <Text></Text>
+            <Text></Text>
+            <Text></Text>
+            <Text></Text>
+            <Text></Text>
+            <Text></Text>
+            <Text></Text>
+            <Text></Text>
         </View>
     )
 }
